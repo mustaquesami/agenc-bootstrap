@@ -1,0 +1,321 @@
+@media (min-width:320px) and (max-width:575px){
+    /* Nav and banner section */
+    .banner-content h1 {
+        width: 100%;
+        font-size: 50px;
+    }
+    .banner-content p { 
+        width: 100%;
+        font-size: 16px;
+    }
+    .navbar-toggler-icon {
+        background-image: none;
+    }
+    .fa-classic, .fa-regular, .fa-solid, .far, .fas {
+        font-family: "Font Awesome 6 Free";
+        color: white;
+        font-size: 30px;
+        box-shadow: -10px 7px 22px -5px rgba(244,45,45,0.75);
+        -webkit-box-shadow: -10px 7px 22px -5px rgba(244,45,45,0.75);
+        -moz-box-shadow: -10px 7px 22px -5px rgba(244,45,45,0.75);
+    }
+    .navbar-nav {
+        column-gap: 65px;
+        background-color: #6A4DF4;
+        text-align: center;
+    }
+    .nav-item a {
+        border: 1px solid black;
+    }
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+    .nav-item a:hover {
+        color: #000;
+        line-height: 26px;
+    }
+    .contact-btn {
+       display: none;
+    }
+    /* Nav and banner section */
+    /* our success */
+    #banner {
+        margin-bottom: 40px
+    }
+    #success{
+        margin-bottom: 40px;
+    }
+    .d-flex {
+        flex-direction: column;
+    }
+    .font-35 {
+        font-size: 27px;
+    }
+    /* our success */
+    /* provided services */
+    .services-title p {
+        width: 100%;
+    }
+    /* provided services */
+    /* recent work */
+    .work-title p {
+        width: 100%;
+    }
+    /* recent work */
+    /* why choose */
+    .choose-title h2 {
+        width: 100%;
+        font-size: 34px;
+    }
+    .choose-title p {
+        width: 100%;
+    }
+    .choose-item-content p {
+        width: 100%;
+    }
+    /* why choose */
+    /* reviews */
+    .reviews-title p {
+        width: 100%;
+    }
+    /* reviews */
+    /* feedback */
+    #feedback {
+        padding: 0px;
+    }
+    .feedback-content h2 {
+        width: 100%;
+        font-size: 30px;
+    }
+    .feedback-content p {
+        width: 100%;
+    }
+    .feedback-form {
+        width: 100%;
+    }
+    .feedback-form input {
+        border-radius: 5px;
+        border: 1px solid var(--Dark-06, #E8E8E8);
+        height: 40px;
+    }
+    /* feedback */
+    /* footer */
+    footer {
+        padding: 0px;
+    }
+    .footer-content p {
+        width: 100%;
+    }
+    /* footer */
+}
+
+@media (min-width:576px) and (max-width:767px){
+    /* Nav and banner section */
+    .banner-content h1 {
+        width: 100%;
+        font-size: 50px;
+    }
+    .banner-content p { 
+        width: 100%;
+        font-size: 16px;
+    }
+    .navbar-toggler-icon {
+        background-image: none;
+    }
+    .fa-classic, .fa-regular, .fa-solid, .far, .fas {
+        font-family: "Font Awesome 6 Free";
+        color: white;
+        font-size: 30px;
+        box-shadow: -10px 7px 22px -5px rgba(244,45,45,0.75);
+        -webkit-box-shadow: -10px 7px 22px -5px rgba(244,45,45,0.75);
+        -moz-box-shadow: -10px 7px 22px -5px rgba(244,45,45,0.75);
+    }
+    .navbar-nav {
+        column-gap: 65px;
+        background-color: #6A4DF4;
+        text-align: center;
+    }
+    .nav-item a {
+        border: 1px solid black;
+    }
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+    .nav-item a:hover {
+        color: #000;
+        line-height: 26px;
+    }
+    .contact-btn {
+       display: none;
+    }
+    /* Nav and banner section */
+    /* our success */
+    #banner {
+        margin-bottom: 40px
+    }
+    #success{
+        margin-bottom: 40px;
+    }
+    .d-flex {
+        flex-direction: column;
+    }
+    .font-35 {
+        font-size: 27px;
+    }
+    /* our success */
+    /* provided services */
+    .services-title p {
+        width: 100%;
+    }
+    /* provided services */
+    /* recent work */
+    .work-title p {
+        width: 100%;
+    }
+    /* recent work */
+    /* why choose */
+    .choose-title h2 {
+        width: 100%;
+        font-size: 34px;
+    }
+    .choose-title p {
+        width: 100%;
+    }
+    .choose-item-content p {
+        width: 100%;
+    }
+    /* why choose */
+    /* feedback */
+    #feedback {
+        padding: 0px;
+    }
+    .feedback-content h2 {
+        width: 100%;
+        font-size: 30px;
+    }
+    .feedback-content p {
+        width: 100%;
+    }
+    .feedback-form {
+        width: 100%;
+    }
+    .feedback-form input {
+        border-radius: 5px;
+        border: 1px solid var(--Dark-06, #E8E8E8);
+        height: 40px;
+    }
+    /* feedback */
+    /* footer */
+    footer {
+        padding: 0px;
+    }
+    .footer-content p {
+        width: 100%;
+    }
+    /* footer */
+}
+@media (min-width:768px) and (max-width:991px){
+    /* Nav and banner section */
+    .banner-content h1 {
+        width: 100%;
+        font-size: 50px;
+    }
+    .banner-content p { 
+        width: 100%;
+        font-size: 16px;
+    }
+    .navbar-toggler-icon {
+        background-image: none;
+    }
+    .fa-classic, .fa-regular, .fa-solid, .far, .fas {
+        font-family: "Font Awesome 6 Free";
+        color: white;
+        font-size: 30px;
+        box-shadow: -10px 7px 22px -5px rgba(244,45,45,0.75);
+        -webkit-box-shadow: -10px 7px 22px -5px rgba(244,45,45,0.75);
+        -moz-box-shadow: -10px 7px 22px -5px rgba(244,45,45,0.75);
+    }
+    .navbar-nav {
+        column-gap: 65px;
+        background-color: #6A4DF4;
+        text-align: center;
+    }
+    .nav-item a {
+        border: 1px solid black;
+    }
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+    .nav-item a:hover {
+        color: #000;
+        line-height: 26px;
+    }
+    .contact-btn {
+       display: none;
+    }
+    /* Nav and banner section */
+    /* our success */
+    #banner {
+        margin-bottom: 40px
+    }
+    #success{
+        margin-bottom: 40px;
+    }
+    .d-flex {
+        flex-direction: column;
+    }
+    .font-35 {
+        font-size: 27px;
+    }
+    /* our success */
+    /* provided services */
+    .services-title p {
+        width: 100%;
+    }
+    /* provided services */
+    /* recent work */
+    .work-title p {
+        width: 100%;
+    }
+    /* recent work */
+    /* why choose */
+    .choose-title h2 {
+        width: 100%;
+        font-size: 34px;
+    }
+    .choose-title p {
+        width: 100%;
+    }
+    .choose-item-content p {
+        width: 100%;
+    }
+    /* why choose */
+    /* feedback */
+    #feedback {
+        padding: 0px;
+    }
+    .feedback-content h2 {
+        width: 100%;
+        font-size: 30px;
+    }
+    .feedback-content p {
+        width: 100%;
+    }
+    .feedback-form {
+        width: 100%;
+    }
+    .feedback-form input {
+        border-radius: 5px;
+        border: 1px solid var(--Dark-06, #E8E8E8);
+        height: 40px;
+    }
+    /* feedback */
+    /* footer */
+    footer {
+        padding: 0px;
+    }
+    .footer-content p {
+        width: 100%;
+    }
+    /* footer */
+}
